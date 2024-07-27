@@ -5,7 +5,7 @@
     "APP" : {
 
         "NAME"    : "",
-        "VERSION" : "${project.version}",
+
 
         "ACTION_ACKNOWLEDGE"        : "OK",
         "ACTION_CANCEL"             : "Cancel",
@@ -636,7 +636,7 @@
         "FIELD_HEADER_ENABLE_SFTP"   : "Enable SFTP:",
         "FIELD_HEADER_HOST_KEY"      : "Public host key (Base64):",
         "FIELD_HEADER_HOSTNAME"      : "Hostname:",
-        "FIELD_HEADER_LOCALE"        : "Language/Locale ($LANG):",
+        
         "FIELD_HEADER_USERNAME"      : "Username:",
         "FIELD_HEADER_PASSWORD"      : "PIN:",
         "FIELD_HEADER_PASSPHRASE"    : "Passphrase:",
@@ -654,7 +654,7 @@
         "FIELD_HEADER_SFTP_ROOT_DIRECTORY"   : "File browser root directory:",
         "FIELD_HEADER_SFTP_DISABLE_UPLOAD"   : "Disable file upload:",
         "FIELD_HEADER_TERMINAL_TYPE"   : "Terminal type:",
-        "FIELD_HEADER_TIMEZONE"        : "Time zone ($TZ):",
+        
         "FIELD_HEADER_TYPESCRIPT_NAME" : "Typescript name:",
         "FIELD_HEADER_TYPESCRIPT_PATH" : "Typescript path:",
         "FIELD_HEADER_WOL_BROADCAST_ADDR" : "Broadcast address for WoL packet:",
