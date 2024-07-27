@@ -30,18 +30,18 @@
         "ACTION_SAVE"               : "Save",
         "ACTION_SEARCH"             : "Search",
         "ACTION_SHARE"              : "Share",
-        "ACTION_UPDATE_PASSWORD"    : "Update Password",
+        "ACTION_UPDATE_PASSWORD"    : "Update PIN",
         "ACTION_VIEW_HISTORY"       : "History",
         "ACTION_VIEW_RECORDING"     : "View",
 
         "DIALOG_HEADER_ERROR" : "Error",
 
         "ERROR_PAGE_UNAVAILABLE"  : "An error has occurred and this action cannot be completed. If the problem persists, please notify your system administrator or check your system logs.",
-        "ERROR_PASSWORD_BLANK"    : "Your password cannot be blank.",
+        "ERROR_PASSWORD_BLANK"    : "Your PIN cannot be blank.",
         "ERROR_PASSWORD_MISMATCH" : "The provided passwords do not match.",
         
-        "FIELD_HEADER_PASSWORD"       : "Password:",
-        "FIELD_HEADER_PASSWORD_AGAIN" : "Re-enter Password:",
+        "FIELD_HEADER_PASSWORD"       : "PIN:",
+        "FIELD_HEADER_PASSWORD_AGAIN" : "Re-enter PIN:",
 
         "FIELD_PLACEHOLDER_FILTER" : "Filter",
 
@@ -192,8 +192,8 @@
         "FIELD_PLACEHOLDER_DATE" : "YYYY-MM-DD",
         "FIELD_PLACEHOLDER_TIME" : "HH:MM:SS",
 
-        "HELP_SHOW_PASSWORD" : "Click to show password",
-        "HELP_HIDE_PASSWORD" : "Click to hide password"
+        "HELP_SHOW_PASSWORD" : "Click to show PIN",
+        "HELP_HIDE_PASSWORD" : "Click to hide PIN"
 
     },
 
@@ -205,7 +205,7 @@
 
         "INFO_NO_RECENT_CONNECTIONS" : "No recent connections.",
         
-        "PASSWORD_CHANGED" : "Password changed.",
+        "PASSWORD_CHANGED" : "PIN changed.",
 
         "SECTION_HEADER_ALL_CONNECTIONS"    : "All Connections",
         "SECTION_HEADER_RECENT_CONNECTIONS" : "Recent Connections"
@@ -229,7 +229,7 @@
         "ERROR_INVALID_LOGIN" : "Invalid Login",
 
         "FIELD_HEADER_USERNAME" : "Username",
-        "FIELD_HEADER_PASSWORD" : "Password"
+        "FIELD_HEADER_PASSWORD" : "PIN"
 
     },
 
@@ -327,7 +327,7 @@
         "ERROR_PASSWORD_MISMATCH" : "@:APP.ERROR_PASSWORD_MISMATCH",
 
         "FIELD_HEADER_ADMINISTER_SYSTEM"             : "Administer system:",
-        "FIELD_HEADER_CHANGE_OWN_PASSWORD"           : "Change own password:",
+        "FIELD_HEADER_CHANGE_OWN_PASSWORD"           : "Change own PIN:",
         "FIELD_HEADER_CREATE_NEW_USERS"              : "Create new users:",
         "FIELD_HEADER_CREATE_NEW_USER_GROUPS"        : "Create new user groups:",
         "FIELD_HEADER_CREATE_NEW_CONNECTIONS"        : "Create new connections:",
@@ -511,7 +511,7 @@
         "FIELD_HEADER_FORCE_LOSSLESS"             : "Force lossless compression:",
         "FIELD_HEADER_GATEWAY_DOMAIN"   : "Domain:",
         "FIELD_HEADER_GATEWAY_HOSTNAME" : "Hostname:",
-        "FIELD_HEADER_GATEWAY_PASSWORD" : "Password:",
+        "FIELD_HEADER_GATEWAY_PASSWORD" : "PIN:",
         "FIELD_HEADER_GATEWAY_PORT"     : "Port:",
         "FIELD_HEADER_GATEWAY_USERNAME" : "Username:",
         "FIELD_HEADER_HEIGHT"          : "Height:",
@@ -520,7 +520,7 @@
         "FIELD_HEADER_INITIAL_PROGRAM" : "Initial program:",
         "FIELD_HEADER_LOAD_BALANCE_INFO" : "Load balance info/cookie:",
         "FIELD_HEADER_NORMALIZE_CLIPBOARD" : "Line endings:",
-        "FIELD_HEADER_PASSWORD"        : "Password:",
+        "FIELD_HEADER_PASSWORD"        : "PIN:",
         "FIELD_HEADER_PORT"            : "Port:",
         "FIELD_HEADER_PRINTER_NAME"    : "Redirected printer name:",
         "FIELD_HEADER_PRECONNECTION_BLOB" : "Preconnection BLOB (VM ID):",
@@ -544,7 +544,7 @@
         "FIELD_HEADER_SFTP_HOSTNAME"              : "Hostname:",
         "FIELD_HEADER_SFTP_SERVER_ALIVE_INTERVAL" : "SFTP keepalive interval:",
         "FIELD_HEADER_SFTP_PASSPHRASE"            : "Passphrase:",
-        "FIELD_HEADER_SFTP_PASSWORD"              : "Password:",
+        "FIELD_HEADER_SFTP_PASSWORD"              : "PIN:",
         "FIELD_HEADER_SFTP_PORT"                  : "Port:",
         "FIELD_HEADER_SFTP_PRIVATE_KEY"           : "Private key:",
         "FIELD_HEADER_SFTP_ROOT_DIRECTORY"        : "File browser root directory:",
@@ -638,7 +638,7 @@
         "FIELD_HEADER_HOSTNAME"      : "Hostname:",
         "FIELD_HEADER_LOCALE"        : "Language/Locale ($LANG):",
         "FIELD_HEADER_USERNAME"      : "Username:",
-        "FIELD_HEADER_PASSWORD"      : "Password:",
+        "FIELD_HEADER_PASSWORD"      : "PIN:",
         "FIELD_HEADER_PASSPHRASE"    : "Passphrase:",
         "FIELD_HEADER_PORT"          : "Port:",
         "FIELD_HEADER_PRIVATE_KEY"   : "Private key:",
@@ -727,8 +727,8 @@
         "FIELD_HEADER_LOGIN_SUCCESS_REGEX" : "Login success regular expression:",
         "FIELD_HEADER_USERNAME"       : "Username:",
         "FIELD_HEADER_USERNAME_REGEX" : "Username regular expression:",
-        "FIELD_HEADER_PASSWORD"       : "Password:",
-        "FIELD_HEADER_PASSWORD_REGEX" : "Password regular expression:",
+        "FIELD_HEADER_PASSWORD"       : "PIN:",
+        "FIELD_HEADER_PASSWORD_REGEX" : "PIN regular expression:",
         "FIELD_HEADER_PORT"           : "Port:",
         "FIELD_HEADER_READ_ONLY"      : "Read-only:",
         "FIELD_HEADER_RECORDING_EXCLUDE_MOUSE"  : "Exclude mouse:",
@@ -809,7 +809,7 @@
         "FIELD_HEADER_FORCE_LOSSLESS"   : "Force lossless compression:",
         "FIELD_HEADER_HOSTNAME"         : "Hostname:",
         "FIELD_HEADER_USERNAME"         : "Username:",
-        "FIELD_HEADER_PASSWORD"         : "Password:",
+        "FIELD_HEADER_PASSWORD"         : "PIN:",
         "FIELD_HEADER_PORT"             : "Port:",
         "FIELD_HEADER_READ_ONLY"        : "Read-only:",
         "FIELD_HEADER_RECORDING_EXCLUDE_MOUSE"  : "Exclude mouse:",
@@ -823,7 +823,7 @@
         "FIELD_HEADER_SFTP_HOSTNAME"              : "Hostname:",
         "FIELD_HEADER_SFTP_SERVER_ALIVE_INTERVAL" : "SFTP keepalive interval:",
         "FIELD_HEADER_SFTP_PASSPHRASE"            : "Passphrase:",
-        "FIELD_HEADER_SFTP_PASSWORD"              : "Password:",
+        "FIELD_HEADER_SFTP_PASSWORD"              : "PIN:",
         "FIELD_HEADER_SFTP_PORT"                  : "Port:",
         "FIELD_HEADER_SFTP_PRIVATE_KEY"           : "Private key:",
         "FIELD_HEADER_SFTP_ROOT_DIRECTORY"        : "File browser root directory:",
@@ -931,10 +931,10 @@
         "ERROR_PASSWORD_MISMATCH" : "@:APP.ERROR_PASSWORD_MISMATCH",
 
         "FIELD_HEADER_LANGUAGE"           : "Display language:",
-        "FIELD_HEADER_PASSWORD"           : "Password:",
-        "FIELD_HEADER_PASSWORD_OLD"       : "Current Password:",
-        "FIELD_HEADER_PASSWORD_NEW"       : "New Password:",
-        "FIELD_HEADER_PASSWORD_NEW_AGAIN" : "Confirm New Password:",
+        "FIELD_HEADER_PASSWORD"           : "PIN:",
+        "FIELD_HEADER_PASSWORD_OLD"       : "Current PIN:",
+        "FIELD_HEADER_PASSWORD_NEW"       : "New PIN:",
+        "FIELD_HEADER_PASSWORD_NEW_AGAIN" : "Confirm New PIN:",
         "FIELD_HEADER_TIMEZONE"           : "Timezone:",
         "FIELD_HEADER_USERNAME"           : "Username:",
         
@@ -946,9 +946,9 @@
         "HELP_LOCALE"               : "Options below are related to the locale of the user and will impact how various parts of the interface are displayed.",
         "HELP_MOUSE_MODE_ABSOLUTE"  : "@:CLIENT.HELP_MOUSE_MODE_ABSOLUTE",
         "HELP_MOUSE_MODE_RELATIVE"  : "@:CLIENT.HELP_MOUSE_MODE_RELATIVE",
-        "HELP_UPDATE_PASSWORD"      : "If you wish to change your password, enter your current password and the desired new password below, and click \"Update Password\". The change will take effect immediately.",
+        "HELP_UPDATE_PASSWORD"      : "If you wish to change your PIN, enter your current PIN and the desired new PIN below, and click \"Update PIN\". The change will take effect immediately.",
 
-        "INFO_PASSWORD_CHANGED" : "Password changed.",
+        "INFO_PASSWORD_CHANGED" : "PIN changed.",
 
         "NAME_INPUT_METHOD_NONE" : "@:CLIENT.NAME_INPUT_METHOD_NONE",
         "NAME_INPUT_METHOD_OSK"  : "@:CLIENT.NAME_INPUT_METHOD_OSK",
@@ -956,7 +956,7 @@
 
         "SECTION_HEADER_DEFAULT_INPUT_METHOD" : "Default Input Method",
         "SECTION_HEADER_DEFAULT_MOUSE_MODE"   : "Default Mouse Emulation Mode",
-        "SECTION_HEADER_UPDATE_PASSWORD"      : "Change Password"
+        "SECTION_HEADER_UPDATE_PASSWORD"      : "Change PIN"
 
     },
 
